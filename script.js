@@ -14,7 +14,7 @@ const songs = [
   {
     name: "Yahweh-Sabaoth-_-Nathaniel-Bassey",
     displayName: "Yahweh Sabaoth",
-    artist: "Nathaniel-Bassey",
+    artist: "Nathaniel Bassey",
   },
 
   {
@@ -26,13 +26,13 @@ const songs = [
   {
     name: "Sunmisola-Agbebi-BOla",
     displayName: "BOla",
-    artist: "Sunmisola-Agbebi",
+    artist: "Sunmisola Agbebi",
   },
 
   {
     name: "OKenneth-Ft-XlimKid-Lonely-Road",
     displayName: "Lonely-Road",
-    artist: "OKenneth-Ft-XlimKid",
+    artist: "OKenneth Ft XlimKid",
   },
   {
     name: "Tatiana_Manaois_-_Homebody",
